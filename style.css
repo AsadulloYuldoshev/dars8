@@ -1,0 +1,88 @@
+header{
+    width: 80%;
+    border: 3px solid red;
+}
+nav{ 
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    color: black;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.br{
+    width: 300px;
+    height: 290px;
+}
+.br h1{
+    width: 250px;
+}
+main{
+    width: 80%;
+    height: 800px;
+}
+button{
+    border: 1px solid;
+    width: 100px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: white;
+    color: blanchedalmond;
+}
+button:hover{
+  background-color: blue;
+}
+.qwer{
+    text-align: center;
+}
+.zxc{
+    width: 750px;
+    height: 60px;
+    margin: auto;
+}
+.qaz{
+    border: 1px solid rgb(87, 79, 79);
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: rgb(169, 164, 164);
+}
+.sdc{
+    color: rgb(62, 51, 51);
+}
+.uch{
+    width: 1000px;
+    height: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.plm{
+margin-left: 450px;
+width: 150px;
+height: 30px;
+margin-bottom: 50px;
+}
+.qaz:hover{
+background-color: blue;
+}
+.con{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
